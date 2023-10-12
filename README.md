@@ -1,7 +1,5 @@
 # .°•☆|•°∵* **Catusan** *∵°•|☆•°.
 
-<img src="https://pbs.twimg.com/media/FvVUkKIWwAUM6Cd?format=jpg&name=large" width="400" />
-
 <br />
 
  <p>  
