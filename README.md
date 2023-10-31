@@ -31,7 +31,7 @@
 ![HTML5](https://img.shields.io/badge/HTML5-pink?style=for-the-badge&logo=html5&logoColor=fff)
 ![CSS3](https://img.shields.io/badge/CSS3-pink?style=for-the-badge&logo=css3&logoColor=fff)
 ![JavaScript](https://img.shields.io/badge/JavaScript-pink?style=for-the-badge&logo=javascript&logoColor=fff)
-![Salesforce](https://img.shields.io/badge/Salesforce-pink?style=for-the-badge&logo=Salesforce&logoColor=fff)
+![Salesforce Marketing Cloud](https://img.shields.io/badge/Salesforce-pink?style=for-the-badge&logo=Salesforce&logoColor=fff)
 ![Python](https://img.shields.io/badge/Python-pink?style=for-the-badge&logo=python&logoColor=fff)
 ![Git](https://img.shields.io/badge/Git-pink?style=for-the-badge&logo=Git&logoColor=fff)
 ![GitHub](https://img.shields.io/badge/GitHub-pink?style=for-the-badge&logo=GitHub&logoColor=fff)
