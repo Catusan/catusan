@@ -1,7 +1,7 @@
 # .°•☆|•°∵* **Catusan** *∵°•|☆•°.
 
 <br />
-<img src="https://imgur.com/PZTOwiQ">
+<img src="https://i.imgur.com/PZTOwiQ.png" width="500">
 <br />
 
  <p>  
