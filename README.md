@@ -1,6 +1,8 @@
 # .°•☆|•°∵* **Catusan** *∵°•|☆•°.
 
 <br />
+<img src="https://imgur.com/PZTOwiQ">
+<br />
 
  <p>  
 *ੈ✩‧₊˚ Tecnóloga em Análise e Desenvolvimento de Sistemas.
