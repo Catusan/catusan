@@ -6,10 +6,10 @@
 *ੈ✩‧₊˚ Tecnóloga em Análise e Desenvolvimento de Sistemas.
 </p>
 <p>
-  *ੈ✩‧₊˚ Desenvolvedora Web Full Stack.
+  *ੈ✩‧₊˚ Desenvolvedora Front End.
 </p>
 <p>
-  *ੈ✩‧₊˚ Desenvolvedora Salesforce Full Stack.
+  *ੈ✩‧₊˚ Desenvolvedora Marketing Cloud.
 </p>
 <p>
   *ੈ✩‧₊˚ Entusiasta em Python, AI, Data Science e Data Analysis.
